@@ -6,4 +6,4 @@
   }, [ArrayOfStateValues]);
   
   useContext
-    //Use Context in functional components and use 'useContext' to access the context in other functional components
+    //Use Context API in functional components to set the state and use 'useContext' to access the state in other functional components
